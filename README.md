@@ -9,7 +9,8 @@ Any donation would help me a lot!
 # Acer Spin 5
 # Mac OS X 11 BigSur 
 ***This EFI cannot be used for previous version of macOS. To boot with previous version of macOS, please try Clover ***
-![Alt text](https://github.com/tunglamvghy/AcerSpin5-hackintosh/raw/master/Screenshoot/os.png)
+
+![Alt text](https://github.com/tunglamvghy/AcerSpin5-hackintosh/raw/main/Screenshoot/os.png)
 # Specification
 | Name | Description |
 | - | - |
