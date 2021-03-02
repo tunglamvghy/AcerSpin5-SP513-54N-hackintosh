@@ -27,8 +27,7 @@ Any donation would help me a lot!
 - [x] **WiFi**
 - [x] **Bluetooth**
 - [x] Apple Store
-- [x] USB 2.0
-- [x] USB 3.0
+- [x] USB 3.0 + USB 2.0
 - [x] Adjust brightness
 - [x] Sleep power
 - [x] Battery indicator
