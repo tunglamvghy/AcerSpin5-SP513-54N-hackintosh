@@ -7,10 +7,9 @@ Any donation would help me a lot!
 [![Telegram](https://img.shields.io/badge/Chat_on-Telegram-blue.svg)](https://t.me/tunglamvghy)
 
 # Acer Spin 5
-# Mac OS X 11 BigSur 
-***This EFI cannot be used for previous version of macOS. To boot with previous version of macOS, please try Clover ***
+# Mac OS X 12.0.1 Monterey 
 
-![Alt text](https://github.com/tunglamvghy/AcerSpin5-hackintosh/raw/main/Screenshoot/os.png)
+![Alt text](https://github.com/tunglamvghy/AcerSpin5-SP513-54N-hackintosh/raw/main/Screenshoot/os.jpeg)
 # Specification
 | Name | Description |
 | - | - |
@@ -41,10 +40,10 @@ Any donation would help me a lot!
 - Combojack (If you use headphone, try this command on Terminal: **hda-verb 0x19 0x707 0x20**)
 
 # INSTALLATION GUIDE
-[See Installation guide](https://github.com/tunglamvghy/AcerSpin5-hackintosh/blob/master/Installation%20Guide.md)
+[See Installation guide](https://github.com/tunglamvghy/AcerSpin5-SP513-54N-hackintosh/blob/master/Installation%20Guide.md)
 
 # CHANGELOG
-[See Changelog](https://github.com/tunglamvghy/AcerSpin5-hackintosh/blob/master/Changelog.md)
+[See Changelog](https://github.com/tunglamvghy/AcerSpin5-SP513-54N-hackintosh/blob/master/Changelog.md)
 
 ## Credits
 @RehabMan for his guide for beginner
